@@ -19,3 +19,6 @@ this is platformer with pygame
 Создавали два человека
 1. `Marcus` - прогер, кодер и тд
 2. `TADORIN` - сделал мне дизайн, скины, кнопки)
+
+
+![url](https://img.shields.io/badge/Всем%20Удачного%20Кодинга%29-20B2AA?style=for-the-badge)
